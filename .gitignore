@@ -1,0 +1,23 @@
+.venv/
+.env
+__pycache__/
+*.py[cod]
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Logs and temporary files
+*.log
+.DS_Store
